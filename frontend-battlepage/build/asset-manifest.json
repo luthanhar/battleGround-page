@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/battleGround-page/static/css/main.49ef4262.css",
+    "main.js": "/battleGround-page/static/js/main.64713d5b.js",
+    "index.html": "/battleGround-page/index.html",
+    "main.49ef4262.css.map": "/battleGround-page/static/css/main.49ef4262.css.map",
+    "main.64713d5b.js.map": "/battleGround-page/static/js/main.64713d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ef4262.css",
+    "static/js/main.64713d5b.js"
+  ]
+}
