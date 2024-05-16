@@ -2,3 +2,5 @@
 2) Server deployed using render at: https://battleground-page.onrender.com
 3) Frontend deployed using GitHub Pages at: https://luthanhar.github.io/battleGround-page/
 4) Frontend makes API calls to get the required data from server
+
+Note: Fetching the data might take upto 50sec as the server has been deployed on a free hosting platform
